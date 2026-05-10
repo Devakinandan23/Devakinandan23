@@ -89,7 +89,7 @@
 **[Dev React Pizza](https://github.com/Devakinandan23/React/tree/main/Dev_PIZZA_APP)** - A full-stack React application showcasing modern frontend patterns and best practices.
 
 **[Dev React Pizza](https://github.com/Devakinandan23/quiz-app99)** - A full-stack React application showcasing modern frontend patterns and best practices.
-**[Project Link:](quiz-app99.vercel.app)**
+**[Project Link](quiz-app99.vercel.app)**
 
 
 
