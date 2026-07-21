@@ -1,94 +1,95 @@
-# Hi 👋, I'm Devakinandan Kurukundu
-
 <div align="center">
-  <h3>A passionate fullstack developer from India</h3>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=devakinandan23&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </p>
+
+# Devakinandan Kurukundu
+
+### Backend-focused Software Developer
+
+I build reliable APIs, real-time multiplayer systems, and full-stack products using TypeScript, Node.js, PostgreSQL, and React.
+
+[![Email](https://img.shields.io/badge/Email-nandandevaki6%40gmail.com-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:nandandevaki6@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Devakinandan23-181717?style=flat-square\&logo=github)](https://github.com/Devakinandan23)
+[![X](https://img.shields.io/badge/X-@devakinandan23-000000?style=flat-square\&logo=x)](https://twitter.com/devakinandan23)
+[![LeetCode](https://img.shields.io/badge/LeetCode-devakinandan-FFA116?style=flat-square\&logo=leetcode\&logoColor=black)](https://leetcode.com/devakinandan)
+[![Codolio](https://img.shields.io/badge/Codolio-Profile-6C63FF?style=flat-square)](https://codolio.com/profile/Devakinandan)
+
 </div>
 
----
+## About
 
-## 🚀 About Me
+* Backend-focused developer with product experience building HR and payroll workflows.
+* Currently building **BugRace AI**, a real-time multiplayer debugging game with server-authoritative race state and AI-assisted semantic evaluation.
+* Strongest areas: API design, authentication and authorization, relational data modelling, validation, real-time communication, and backend-owned business rules.
+* Open to **Backend Engineer** and backend-heavy **Full-Stack Engineer** roles in Bengaluru and Hyderabad.
 
-- 🎯 **Currently working on:** Backend systems for HR-tech & fintech startups
-- 🌱 **Learning:** Advanced Node.js patterns, system design, and DSA
-- 👯 **Open to collaborating on:** Full-stack projects, backend optimization
-- 📧 **Reach me at:** nandandevaki6@gmail.com
-- 🔗 **Portfolio Focus:** Webhook Delivery System, multi-tenant architecture
+## Featured Projects
 
----
+### [BugRace AI](https://github.com/Devakinandan23/bugrace-ai)
 
-## 🛠️ Tech Stack
+Real-time multiplayer debugging races where every player receives the same challenge and submits a root cause, fix, and explanation.
 
-### Core Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+* Server-authoritative rooms, host ownership, deadlines, scoring, and deterministic rankings
+* Asynchronous OpenAI semantic evaluation with validated structured outputs and deterministic fallback
+* Private player feedback with public race-safe state
+* Monorepo with shared browser/server protocol contracts
 
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Tools & Platforms
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+**Stack:** TypeScript, Next.js, Node.js, Express, Socket.IO, Zod, OpenAI API, pnpm
 
 ---
 
-## 🎖️ Achievements
+### [Second Brain Backend](https://github.com/Devakinandan23/second-brain-backend)
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=devakinandan23&theme=dark&column=7" alt="GitHub Profile Trophy" />
-  </a>
-</div>
+A multi-user knowledge-management API for saving, organizing, sharing, and recovering web content.
 
----
+* JWT authentication, bcrypt password hashing, Zod validation, and strict ownership checks
+* Metadata extraction for YouTube, X/Twitter, Notion, and general web links
+* Many-to-many tagging, soft deletion, and public share links
+* Versioned REST API backed by PostgreSQL and Prisma
 
-## 🔗 Connect With Me
-
-<div align="left">
-  <a href="https://twitter.com/devakinandan23" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.leetcode.com/devakinandan" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://github.com/devakinandan23" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:nandandevaki6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+**Stack:** TypeScript, Node.js, Express, PostgreSQL, Prisma, Zod, Cheerio, Jest
 
 ---
 
-## 💡 Featured Project
+### [BITSAT Quiz Platform](https://github.com/Devakinandan23/quiz-app99) · [Backend](https://github.com/Devakinandan23/quiz-app99-backend) · [Live App](https://quizapp99.vercel.app/)
 
-**[Dev React Pizza](https://github.com/Devakinandan23/React/tree/main/Dev_PIZZA_APP)** - A full-stack React application showcasing modern frontend patterns and best practices.
+A full-stack assessment platform with analytics, answer review, flashcards, and persistent attempt history.
 
-**[Dev React Pizza](https://github.com/Devakinandan23/quiz-app99)** - A full-stack React application showcasing modern frontend patterns and best practices.
-**[Project Link](quiz-app99.vercel.app)**
+* Server-side scoring without exposing correct answers to the client
+* Transactional attempt storage and duplicate-submission protection
+* Paginated APIs, indexed relations, selective queries, and layered backend architecture
+* Subject, concept, and mistake-pattern analytics in the frontend
 
+**Stack:** React, Vite, TypeScript, Node.js, Express, PostgreSQL, Prisma
 
+## Technical Stack
 
----
+**Backend**
+TypeScript · JavaScript · Node.js · Express · REST APIs · Socket.IO · Zod · JWT
 
-<div align="center">
-  <p>⭐ If you find my work interesting, feel free to star my repositories!</p>
-  <p>
-    <em>Open to opportunities in backend engineering, system design, and full-stack development.</em>
-  </p>
-</div>
+**Databases and Data Access**
+PostgreSQL · MySQL · Prisma · Sequelize
+
+**Frontend**
+Next.js · React · Tailwind CSS · Material UI · TanStack Query
+
+**Engineering Tools**
+Git · Docker · AWS · Jest · Postman · pnpm · npm
+
+## Engineering Principles
+
+* Keep business-critical state and scoring authoritative on the server.
+* Validate data at system boundaries instead of trusting clients.
+* Design explicitly for ownership, duplicate requests, timeouts, disconnects, and partial failure.
+* Prefer clear contracts, deterministic behaviour, and boring maintainability over clever abstractions.
+
+## Current Focus
+
+* Persistence and reconnection recovery for real-time systems
+* Production-grade testing, observability, and deployment
+* System design and data-structure problem solving in C++
+
+## Contact
+
+* Email: [nandandevaki6@gmail.com](mailto:nandandevaki6@gmail.com)
+* GitHub: [github.com/Devakinandan23](https://github.com/Devakinandan23)
+* X: [@devakinandan23](https://twitter.com/devakinandan23)
+* LeetCode: [devakinandan](https://leetcode.com/devakinandan)
