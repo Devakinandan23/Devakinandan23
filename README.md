@@ -49,6 +49,20 @@ A multi-user knowledge-management API for saving, organizing, sharing, and recov
 
 ---
 
+### [Typeracter](https://github.com/Devakinandan23/typeracter)
+
+A real-time multiplayer typing-race platform where players join rooms, compete on the same passage, and receive live rankings based on speed and accuracy.
+
+* Socket.IO-based rooms with synchronized countdowns, race state, progress updates, and results
+* Server-owned passage selection, timers, player status, and leaderboard calculations
+* Spectator mode for users who opt out before a race or are eliminated during Knockout Grand Prix
+* Host-controlled race lifecycle with lobby, countdown, racing, results, restart, and leave-room flows
+* Designed around disconnect handling, duplicate events, stale clients, and consistent room state
+
+**Stack:** TypeScript, Next.js, Node.js, Express, Socket.IO, Zustand, PostgreSQL
+
+---
+
 ### [BITSAT Quiz Platform](https://github.com/Devakinandan23/quiz-app99) · [Backend](https://github.com/Devakinandan23/quiz-app99-backend) · [Live App](https://quizapp99.vercel.app/)
 
 A full-stack assessment platform with analytics, answer review, flashcards, and persistent attempt history.
